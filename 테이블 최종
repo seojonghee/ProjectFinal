@@ -18,7 +18,7 @@ create sequence members_seq
   maxvalue 10000
   nocache;
   
-1234
+
 
     
 drop table video CASCADE CONSTRAINTS;
