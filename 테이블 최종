@@ -19,7 +19,7 @@ create sequence members_seq
   nocache;
   
   
-1234¼­Á¾Èñ
+
     
 drop table video CASCADE CONSTRAINTS;
 create table video(
